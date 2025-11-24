@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Mutia
+ * @author Lab Studio
  */
 public class Buku {
     private final String judul;

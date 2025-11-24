@@ -6,7 +6,7 @@ package MencariIndexArray;
 
 /**
  *
- * @author Mutia
+ * @author Lab Studio
  */
 
 import java.util.Scanner;

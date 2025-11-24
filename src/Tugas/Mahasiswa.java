@@ -6,7 +6,7 @@ package Tugas;
 
 /**
  *
- * @author Mutia
+ * @author Lab Studio
  */
 public class Mahasiswa {
 
